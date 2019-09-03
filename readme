@@ -2,11 +2,9 @@ First line
 2nd lines
 
 2nd line 
-<<<<<<< Updated upstream
 3rd update from remote
-=======
 
 3rd update from local
->>>>>>> Stashed changes
 
 4th updated from remote
+4th update local
